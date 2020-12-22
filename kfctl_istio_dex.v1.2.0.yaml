@@ -86,5 +86,5 @@ spec:
     name: kfserving
   repos:
   - name: manifests
-    uri: file://./v1.2-branch.tar.gz
+    uri: https://github.com/kalenpeterson/custom-kubeflow-installer/raw/main/v1.2-branch.tar.gz
   version: v1.2-branch
